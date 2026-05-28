@@ -55,3 +55,10 @@ Or connect the GitHub repo to [vercel.com](https://vercel.com) — it auto-detec
 - **No wash sale rules:** The tool does not enforce wash sale restrictions (e.g. the 30-day repurchase rule), as these vary by jurisdiction and the assignment does not specify them.
 
 - **API response shape:** The API is expected to return an array of holdings, each with `coin`, `coinSymbol`, `currentPrice`, `totalHolding`, `stcg: { gain, loss }`, and `ltcg: { gain, loss }` fields. If the shape differs, the fallback mock data is used.
+
+### Screenshot
+<img width="1346" height="661" alt="image" src="https://github.com/user-attachments/assets/e4d13460-942f-4491-b618-1ded85ba6271" />
+<img width="1347" height="574" alt="image" src="https://github.com/user-attachments/assets/ffbee751-4fd8-40d2-8bef-9d1ffcbca3ce" />
+<img width="1337" height="567" alt="image" src="https://github.com/user-attachments/assets/78c110e4-f7e2-467a-8b1e-e770ab3bb476" />
+<img width="1344" height="565" alt="image" src="https://github.com/user-attachments/assets/9729bc23-ab59-4dca-81e9-4ca1aa8b3b19" />
+
